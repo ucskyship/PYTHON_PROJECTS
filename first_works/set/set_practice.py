@@ -6,8 +6,16 @@ s4 = {1, 2, 3, 4, 5, 6, 7, 9}
 d1 = {'a': 1, 'b': 2, 'c': 4}
 
 # #                                      DICTIONARY
+# d = dict(a=1, b=2, c=3)
+#
+# #  to add value of range to a dictionary
+# print({}.fromkeys('abcde', list(range(5))))
+#
+# #  to add to a dictionary a key and a vlue that does not exist
+# d.setdefault('d', 8)
+# print(d)
 
-# #  takes key and value, which means a is the key and 1 os the value
+# #  takes key and value, which means 'a' is the key and 1 os the value
 # #  lets you pop with the key and not with the value and when it doesn't find it, it throws and error message
 # # remember pop allows you remove at random
 # d1.popitem()
