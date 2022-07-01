@@ -3,4 +3,4 @@ def solution(string):
     return string
 
 
-print(solution("HowAreYou"))
+print(solution("Mofe"))

@@ -38,5 +38,6 @@ print("""
 
 
 """)
-user_input = print(int(input(mainMenu())))
+
+print(int(input(mainMenu())))
 print(int(input(mainMenu())))
