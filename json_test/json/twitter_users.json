@@ -1,0 +1,9 @@
+{
+  "name": "Abc",
+  "age": 23,
+  "is_married": true,
+  "tweets": [
+    "I love my mum",
+    "No be me"
+  ]
+}
